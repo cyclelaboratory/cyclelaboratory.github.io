@@ -20,8 +20,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '112.95'
-        longitude: '28.17'
+        latitude: '112.9500'
+        longitude: '28.1700'
       directions: Enter the college building and take the stairs to Office 243 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
@@ -64,6 +64,6 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['15px', '0', '15px', '0']
       css_class: fullscreen
 ---
