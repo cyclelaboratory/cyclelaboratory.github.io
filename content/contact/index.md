@@ -9,7 +9,7 @@ sections:
     content:
       title: Contact
       text: |-
-        CYCLE Lab currently has one vacancy for a master's student in 2025. Students with a solid foundation in programming are welcome to contact Jie Zhao or members of the team. Undergraduate students who like to do scientific research are also welcome to join CYCLE Lab for internships. At the same time, CYCLE Lab also recruits postdoctoral fellows with preferential treatment. Please feel free to inquire. We expect you to have to the following conditions: 1) Healthy physical and mental condition; 2) Full enthusiasm for scientific research; 3) Solid programming foundation; 4) Good communication skills; 5) And interest in the research direction of our team.
+        CYCLE Lab currently has one vacancy for <strong>a master's student in 2025</strong>. Students with a solid foundation in programming are welcome to contact Jie Zhao or members of the team. Undergraduate students who like to do scientific research are also welcome to join CYCLE Lab for internships. At the same time, CYCLE Lab also recruits postdoctoral fellows with preferential treatment. Please feel free to inquire. We expect you to have to the following conditions: 1) Healthy physical and mental condition; 2) Full enthusiasm for scientific research; 3) Solid programming foundation; 4) Good communication skills; 5) And interest in the research direction of our team.
       email: jiezhao@hnu.edu.cn
       # phone: 888 888 88 88
       address:
