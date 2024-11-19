@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests span programming languages and software engineering.
+bio: My research interests span ML system and software engineering.
 
 interests:
   - Floating-point Error Detection
@@ -71,7 +71,7 @@ user_groups:
   - PhD
 ---
 
-[Zuoyan Zhang](https://zuoyanzhang.github.io) is a first-year PhD student at Hunan University under the supervisor Prof. Jie Zhao, where he is a member of the CYCLE Lab. Zhang got his MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University under the supervisor Prof. Shaozhong Guo in June 2024. His research interests span machine learning compilers and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for large language model training. His research has been recognized with ASE, ISSTA.
+[Zuoyan Zhang](https://zuoyanzhang.github.io) is a first-year PhD student at Hunan University under the supervisor Prof. Jie Zhao, where he is a member of the CYCLE Lab. Zhang got his MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University under the supervisor Prof. Shaozhong Guo in June 2024. His research interests span ML system and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for LLM training. His research has been recognized with ASE, ISSTA.
 
 
 ### Publications
