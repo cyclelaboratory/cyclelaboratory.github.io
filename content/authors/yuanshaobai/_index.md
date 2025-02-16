@@ -67,3 +67,18 @@ user_groups:
 ---
 
 Shaobai Yuan is currently a third-year master student at Hunan University. During his master's studies, he joined the CYCLE Lab and will continue his PhD under the supervision of Professors Feng Wang and Jie Zhao. His research focuses primarily on compiler optimizations and binary optimization techniques, with the goal of enhancing software performance and efficiency.
+
+### Publications
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C2]</div>
+        <div style="flex: 1;">
+            Post-Link Outlining for Code Size Reduction<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Shaobai Yuan</strong>, Jihong He,  Yihui Xie, Feng Wang*, Jie Zhao <br>
+                <em>In Proceedings of the ACM SIGPLAN 2025 International Conference on Compiler Construction (CC 2025) Dec 2024</em>
+            </span>
+        </div>
+    </div>
+</div>
