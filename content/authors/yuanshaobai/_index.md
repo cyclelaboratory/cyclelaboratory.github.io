@@ -72,7 +72,7 @@ Shaobai Yuan is currently a third-year master student at Hunan University. Durin
 
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C2]</div>
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C1]</div>
         <div style="flex: 1;">
             Post-Link Outlining for Code Size Reduction<br>
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
