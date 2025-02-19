@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Chengshu Miao (缪承书)
+title: Ji Xu (徐吉)
 
 # Full name (for SEO)
-first_name: Chengshu
-last_name: Miao
+first_name: Ji
+last_name: Xu
 
 # Username (this should match the folder name)
 authors:
-  - miaochengshu
+  - xuji
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include model accelerated inference and training.
+bio: My research interests include distributed machine learning and high-performance code optimization.
 
 interests:
   - Deep Learning
@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:miaochengshu@hnu.edu.cn'
+    link: 'mailto:1794174816@hnu.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: 
@@ -63,5 +63,5 @@ user_groups:
   - Undergraduate
 ---
 
-Chengshu Miao is a member of CYCLE at Hunan University and currently a senior student. He is currently under the supervision of Professor Jie Zhao. The research areas of interest are Large Model Distributed Training and Inference Acceleration.
+Ji Xu is a member of CYCLE at Hunan University and currently a senior student. The research areas of interest are deep learning and large model accelerated inference and training.
 
