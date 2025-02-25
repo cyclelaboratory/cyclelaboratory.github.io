@@ -91,7 +91,9 @@ sections:
       title: 
       subtitle: ''
       text: |
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=S2CQFAUXv3Jl3Mia0NiRaquXw9qDFXUelCYX4g3xTDI"></script>
+        <div style="width: 200px; margin: 0 auto;">
+          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=S2CQFAUXv3Jl3Mia0NiRaquXw9qDFXUelCYX4g3xTDI"></script>
+        </div>
     design:
       columns: '1'
       spacing:
