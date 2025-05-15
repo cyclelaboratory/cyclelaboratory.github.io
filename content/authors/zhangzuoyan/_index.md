@@ -13,6 +13,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+link: https://zuoyanzhang.github.io/
+
 # Role/position
 role: PhD student (start from 2024)
 
