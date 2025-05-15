@@ -30,9 +30,12 @@ interests:
 
 education:
   courses:
+    - course: PhD
+      institution: Hunan University
+      year: 2025 - present
     - course: MEng
       institution: Hunan University
-      year: 2022 - present
+      year: 2022 - 2025
     - course: BSc
       institution: Hunan University
       year: 2018 - 2022

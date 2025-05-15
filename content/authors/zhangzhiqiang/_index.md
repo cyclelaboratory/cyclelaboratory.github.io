@@ -30,9 +30,12 @@ interests:
 
 education:
   courses:
+    - course: PhD
+      institution: Hunan University
+      year: 2025 - present
     - course: BSc
       institution: University of Electronic Science and Technology of China
-      year: 2021 - present
+      year: 2021 - 2025
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
