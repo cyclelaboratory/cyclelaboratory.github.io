@@ -24,23 +24,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests span ML system and software engineering.
 
-interests:
-  - Floating-point Error Detection
-  - Program Analysis
-  - Machine Learning Compilers
-  - LLM Distributed Training Acceleration
+# interests:
+#   - Floating-point Error Detection
+#   - Program Analysis
+#   - Machine Learning Compilers
+#   - LLM Distributed Training Acceleration
 
-education:
-  courses:
-    - course: PhD 
-      institution: Hunan University
-      year: 2024 - present
-    - course: MEng
-      institution: Information Engineering University
-      year: 2021 - 2024
-    - course: BSc
-      institution: Henan University of Technology
-      year: 2017 - 2021
+# education:
+#   courses:
+#     - course: PhD 
+#       institution: Hunan University
+#       year: 2024 - present
+#     - course: MEng
+#       institution: Information Engineering University
+#       year: 2021 - 2024
+#     - course: BSc
+#       institution: Henan University of Technology
+#       year: 2017 - 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,10 +71,11 @@ user_groups:
   - PhD
 ---
 
-[Zuoyan Zhang](https://zuoyanzhang.github.io) is a first-year PhD student at Hunan University under the supervisor Prof. Jie Zhao, where he is a member of the CYCLE Lab. Zhang got his MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University under the supervisor Prof. Shaozhong Guo in June 2024. His research interests span ML system and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for LLM training. His research has been recognized with ASE, ISSTA.
+Information about [Zuoyan Zhang](https://zuoyanzhang.github.io/) can be accessed through his personal academic homepage.
+<!-- [Zuoyan Zhang](https://zuoyanzhang.github.io) is a first-year PhD student at Hunan University under the supervisor Prof. Jie Zhao, where he is a member of the CYCLE Lab. Zhang got his MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University under the supervisor Prof. Shaozhong Guo in June 2024. His research interests span ML system and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for LLM training. His research has been recognized with ASE, ISSTA. -->
 
 
-### Publications
+<!-- ### Publications
 
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
@@ -113,4 +114,4 @@ user_groups:
             </span>
         </div>
     </div>
-</div>
+</div> -->

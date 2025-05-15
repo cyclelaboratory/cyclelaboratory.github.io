@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student (start from 2021)
+role: Master student (start from 2025)
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - Master
 ---
 
 Chengshu Miao is a member of CYCLE at Hunan University and currently a senior student. He is currently under the supervision of Professor Jie Zhao. The research areas of interest are Large Model Distributed Training and Inference Acceleration.
