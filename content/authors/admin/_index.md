@@ -75,9 +75,7 @@ user_groups:
   - Professor
 ---
 
-Information about [Jie Zhao](https://yaozhujia.github.io/) can be accessed through his personal academic homepage.
-
-<!-- [Jie Zhao](https://yaozhujia.github.io/) is a Full Professor of the College of Computer Science and Electronic Engineering of Hunan University. He established a good relationship with tech giants including Huawei Technologies, Alibaba Group and startups like Stream Computing Co., Ltd. Jie Zhao obtained his PhD under the supervision of Prof. Albert Cohen from PARKAS, a research group affiliated to the Département d’Informatique of École Normale Supérieure and INRIA Paris. Education & Experience tells more about his academic and industrial careers. Jie Zhao is interested in building intelligent software systems, with a particular focus on compilers, architectures and program analysis. Research indicates his research topics, funding, honors and awards in detail, with the related Publications and open-source Projects & Repositories also provided.
+[Jie Zhao](https://yaozhujia.github.io/) is a Full Professor of the College of Computer Science and Electronic Engineering of Hunan University. He established a good relationship with tech giants including Huawei Technologies, Alibaba Group and startups like Stream Computing Co., Ltd. Jie Zhao obtained his PhD under the supervision of Prof. Albert Cohen from PARKAS, a research group affiliated to the Département d’Informatique of École Normale Supérieure and INRIA Paris. Education & Experience tells more about his academic and industrial careers. Jie Zhao is interested in building intelligent software systems, with a particular focus on compilers, architectures and program analysis. Research indicates his research topics, funding, honors and awards in detail, with the related Publications and open-source Projects & Repositories also provided.
 
 ### Publications
 This part collects a(n incomplete) list of Jie Zhao's publications. Posters and workshp papers without formal proceedings are not recorded. More information is available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=9EIFPO4AAAAJ) and dblp.
@@ -197,4 +195,4 @@ This part collects a(n incomplete) list of Jie Zhao's publications. Posters and 
             </span>
         </div>
     </div>
-</div> -->
+</div>
