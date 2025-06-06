@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3676641.3716264,
+author = {Di, Zhanyuan and Wang, Leping and Shao, En and Ma, Zhaojia and Ren, Ziyi and Hua, Feng and Ma, Lixian and Zhao, Jie and Tan, Guangming and Sun, Ninghui},
+title = {Optimizing Deep Learning Inference Efficiency through Block Dependency Analysis},
+year = {2025},
+isbn = {9798400710797},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3676641.3716264},
+doi = {10.1145/3676641.3716264},
+abstract = {Inter-operator optimization in deep neural networks (DNNs) relies on accurate data dependency analysis. Traditional machine learning compilers (MLCs) perform static data dependency analysis at the element and operator levels, leading to two key limitations: complex dependencies that hinder efficient inter-operator optimizations, and overlooked parallelizable computations that underutilize GPU resources. We introduce BlockDepend, a novel MLC framework that addresses these issues through block-level dependency analysis. By examining the lower-level phases of compilation, BlockDepend extracts crucial block-level dependency information, simplifying complex relationships between operators and uncovering hidden parallelization opportunities. This allows for targeted optimization strategies that enhance memory access efficiency and improve GPU utilization. Our experiments demonstrate BlockDepend's effectiveness, achieving speedups of 1.71\texttimes{} and 2.88\texttimes{} compared to NVIDIA TensorRT and AMD MIGraphX, respectively, across various workloads.},
+booktitle = {Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Volume 2},
+pages = {719–733},
+numpages = {15},
+keywords = {compiler optimization, deep neural network},
+location = {Rotterdam, Netherlands},
+series = {ASPLOS '25}
+}
