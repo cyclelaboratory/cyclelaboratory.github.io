@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student (start from 2022)
+role: PhD student (start from 2026)
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - PhD
 ---
 
 Runhang Guo is a third-year undergraduate student at University of Electronic Science and Technology of China and a member of CYCLE. His research interests focus on polyhedral compilers and compilation optimization.

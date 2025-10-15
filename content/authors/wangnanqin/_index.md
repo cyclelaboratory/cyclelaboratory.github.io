@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student (start from 2022)
+role: PhD student (start from 2026)
 
 # Organizations/Affiliations
 organizations:
@@ -60,7 +60,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - PhD
 ---
 
 Nanqin Wang is a junior at UESTC, and a member of CYCLE. His research interests are in the field of polyhedral compilers and compilation optimization.

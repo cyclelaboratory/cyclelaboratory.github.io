@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/11173470'
 url_code: 'https://github.com/zuoyanzhang/FPEPD/tree/macos'
 url_dataset: ''
 url_poster: ''

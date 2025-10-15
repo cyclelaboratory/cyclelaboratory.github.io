@@ -18,7 +18,7 @@ role: PhD student (start from 2025)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Electronic Science and Technology of China
+  - name: Hunan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -66,5 +66,5 @@ user_groups:
   - PhD
 ---
 
-Quan Yuan is a 4th-year undergraduate student at the University of Electronic Science and Technology of China (UESTC). He is expected to join the CYCLE Lab in 2025 to pursue PhD degree, supervised by Young Prof. Jie Zhao. His research interest is based on compiled integrated circuit design and compilation optimization. In addition, he also has in depth learning in machine learning and deep learning. He is currently learning the knowledge of compilers and computer architecture.
+Quan Yuan is a first-year PhD student at the Hunan University. His research interest is based on compiled integrated circuit design and compilation optimization. In addition, he also has in depth learning in machine learning and deep learning. He is currently learning the knowledge of compilers and computer architecture.
 

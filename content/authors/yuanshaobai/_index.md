@@ -69,7 +69,7 @@ user_groups:
   - PhD
 ---
 
-Shaobai Yuan is currently a third-year master student at Hunan University. During his master's studies, he joined the CYCLE Lab and will continue his PhD under the supervision of Professors Feng Wang and Jie Zhao. His research focuses primarily on compiler optimizations and binary optimization techniques, with the goal of enhancing software performance and efficiency.
+Shaobai Yuan is currently a first-year PhD student at Hunan University. During his master's studies, he joined the CYCLE Lab and will continue his PhD under the supervision of Professors Feng Wang and Jie Zhao. His research focuses primarily on compiler optimizations and binary optimization techniques, with the goal of enhancing software performance and efficiency.
 
 ### Publications
 

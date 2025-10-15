@@ -1,37 +1,38 @@
 ---
 # Display name
-title: Fengbo Tian (田丰博)
+title: Weiming Chen (陈韦铭)
 
 # Full name (for SEO)
-first_name: Fengbo
-last_name: Tian
+first_name: Weiming
+last_name: Chen
 
 # Username (this should match the folder name)
 authors:
-  - tianfengbo
+  - chenweiming
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate student (start from 2022)
+role: Master student (start from 2026)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Electronic Science and Technology of China
+  - name: Hunan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning systems and optimization technique of parallel strategy for LLM.s
+bio: My research interests include Deep Learning and Large Model Distributed Training.
+
 
 interests:
-  - Machine Learning Systems
-  - LLM Distributed Training Acceleration
+  - Deep Learning
+  - Large Model Distributed Training
 
 education:
   courses:
     - course: BSc
-      institution: University of Electronic Science and Technology of China
+      institution: Hunan University
       year: 2022 - present
 
 # Social/Academic Networking
@@ -41,13 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:top.fernwehactive@gmail.com'
+    link: 'mailto:wimi@hnu.edu.cn'
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/iceberg-k
+    link: https://github.com/Dreamer-Wimi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,8 +61,8 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - Master
 ---
 
-Fengbo Tian is a third-year undergraduate student at University of Electronic Science and Technology of China and a member of CYCLE. His research interests focus on machine learning systems and llm distributed training acceleration.
+Weiming Chen is a member of CYCLE at Hunan University and currently a senior student.His research interests include Large Model Distributed Training,Machine Learning and AI Compilation.
 
