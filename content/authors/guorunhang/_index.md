@@ -63,5 +63,5 @@ user_groups:
   - PhD
 ---
 
-Runhang Guo is a third-year undergraduate student at University of Electronic Science and Technology of China and a member of CYCLE. His research interests focus on polyhedral compilers and compilation optimization.
+Runhang Guo is a senior student at University of Electronic Science and Technology of China and a member of CYCLE. His research interests focus on polyhedral compilers and compilation optimization. He is going to pursue his Ph.D. at Hunan University under the supervision of Professor Jie Zhao.
 

@@ -63,5 +63,5 @@ user_groups:
   - PhD
 ---
 
-Nanqin Wang is a junior at UESTC, and a member of CYCLE. His research interests are in the field of polyhedral compilers and compilation optimization.
+Nanqin Wang is a senior student at UESTC, and a member of CYCLE. His research interests are in the field of polyhedral compilers and compilation optimization. He is going to pursue his Ph.D. at Hunan University under the supervision of Professor Jie Zhao.
 
