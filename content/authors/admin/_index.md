@@ -82,6 +82,71 @@ This part collects a(n incomplete) list of Jie Zhao's publications. Posters and 
 
 <div style="margin-bottom: 20px;">
     <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[TACO]</div>
+        <div style="flex: 1;">
+            Accelerating Parallel Structures in DNNs via Parallel Fusion and Operator Co-Optimization<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                	Zhanyuan Di, Leping Wang, Zhaojia Ma, En Shao, <strong>Jie Zhao</strong>, Ziyi Ren, Siyuan Feng, Dingwen Tao, Guangming Tan, Ninghui Sun<br>
+                <em>ACM Transactions on Architecture and Code Optimization (TACO)</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[ASPLOS 2025]</div>
+        <div style="flex: 1;">
+            Optimizing Deep Learning Inference Efficiency through Block Dependency Analysis<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                	Zhanyuan Di, Leping Wang, En Shao, Zhaojia Ma, Ziyi Ren, Feng Hua, Lixian Ma, <strong>Jie Zhao</strong>, Guangming Tan, Ninghui Sun<br>
+                <em>Proceedings of the 30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2025) Apr 2025</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[CC 2025]</div>
+        <div style="flex: 1;">
+            Post-Link Outlining for Code Size Reduction<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                	Shaobai Yuan, Jihong He, Yihui Xie, Feng Wang, <strong>Jie Zhao</strong><br>
+                <em>Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction (CC 2025) Mar 2025</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[PPoPP 2025]</div>
+        <div style="flex: 1;">
+            Magneto: Accelerating Parallel Structures in DNNs via Co-Optimization of Operators<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                Zhanyuan Di, Leping Wang, Ziyi Ren, En Shao, <strong>Jie Zhao</strong>, Siyuan Feng, Dingwen Tao, Guangming Tan, Ninghui Sun<br>
+                <em>Proceedings of the 30th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming (PPoPP 2025) Mar 2025</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[ISSTA 2024]</div>
+        <div style="flex: 1;">
+            Arfa: An Agile Regime-Based Floating-Point Optimization Approach for Rounding Errors<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                Jinchen Xu, Mengqi Cui, Fei Li, Zuoyan Zhang, Hongru Yang, Bei Zhou, <strong>Jie Zhao</strong><br>
+                <em>Proceedings of the 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024) Sep 2024</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
         <div style="min-width: 40px; text-align: right; margin-right: 10px;">[OSDI 2024]</div>
         <div style="flex: 1;">
             Enabling Tensor Language Model to Assist in Generating High-Performance Tensor Programs for Deep Learning<br>
@@ -192,6 +257,45 @@ This part collects a(n incomplete) list of Jie Zhao's publications. Posters and 
             <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
                 <strong>Jie Zhao</strong>, Xiong Gao, Ruijie Xia, Zhaochuang Zhang, Deshi Chen, Lei Chen, Renwei Zhang, Zhen Geng, Bin Cheng, and Xuefeng Jin<br>
                 <em>In Proceedings of Machine Learning and Systems Sep 2022</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[PLDI 2021]</div>
+        <div style="flex: 1;">
+            AKG: automatic kernel generation for neural processing units using polyhedral transformations<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Jie Zhao</strong>, Bojie Li, Wang Nie, Zhen Geng, Renwei Zhang, Xiong Gao, Bin Cheng, Chen Wu, Yun Cheng, Zheng Li, Peng Di, Kun Zhang, Xuefeng Jin<br>
+                <em>The 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation (PLDI 2021) Jun 2021</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[TACO]</div>
+        <div style="flex: 1;">
+            Flextended Tiles: A Flexible Extension of Overlapped Tiles for Polyhedral Compilation<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Jie Zhao</strong>, Albert Cohen<br>
+                <em>ACM Transactions on Architecture and Code Optimization (TACO)</em>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
+        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[MICRO 2020]</div>
+        <div style="flex: 1;">
+            Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data<br>
+            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
+                <strong>Jie Zhao</strong>, Peng Di<br>
+                <em>53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2020) Oct 2020</em>
             </span>
         </div>
     </div>
