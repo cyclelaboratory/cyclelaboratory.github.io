@@ -22,7 +22,7 @@ sections:
       coordinates:
         latitude: '28.1785'
         longitude: '112.9408'
-      directions: Enter the college building and take the stairs to Office 243 on Floor 2
+      directions: Enter the college building and take the stairs to Office 460 on Floor 4
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
