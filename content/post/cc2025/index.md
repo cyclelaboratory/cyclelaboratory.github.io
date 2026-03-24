@@ -3,6 +3,8 @@ title: One paper titled “Post-Link Outlining for Code Size Reduction” was ac
 date: 2024-12-22
 image:
   focal_point: 'top'
+authors:
+  - yuanshaobai
 ---
 
 <!-- aaaaaaa -->

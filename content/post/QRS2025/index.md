@@ -3,6 +3,8 @@ title: One paper titled “Scalable Detection of Floating-point Errors via Adapt
 date: 2025-05-30
 image:
   focal_point: 'top'
+authors:
+  - zhangzuoyan
 ---
 
 <!-- aaaaaaa -->

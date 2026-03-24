@@ -3,6 +3,8 @@ title: Lab Member Guanghui Song Moderates Session 6 at EuroLLVM 2025.
 date: 2025-04-15
 image:
   focal_point: 'top'
+authors:
+  - songguanghui
 ---
 
 Congratulation to Guanghui and thank the LLVM Foundation for his support. 
