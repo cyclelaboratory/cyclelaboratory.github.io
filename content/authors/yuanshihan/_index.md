@@ -70,16 +70,12 @@ Shihan Yuan is information science and engineering college of Hunan University C
 
 ### Publications
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 90px; text-align: right; margin-right: 10px;">[TACO 2026]</div>
-        <div style="flex: 1;">
-            A Decoupled Analytical Model for Tile Size Selection in Affine Programs<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                <strong>Shihan Yuan</strong>, Zuoyan Zhang, Guanghui Song, Junhui Peng, Feng Wang, Zhuo Tang, Kenli Li, Jie Zhao <br>
-                <em>ACM Transactions on Architecture and Code Optimization （ACM TACO）</em>
-            </span>
-        </div>
-    </div>
+<div class="publication-card">
+  <div class="publication-badge">TACO 2026</div>
+  <div>
+    <div class="publication-title">A Decoupled Analytical Model for Tile Size Selection in Affine Programs</div>
+    <div class="publication-authors"><strong>Shihan Yuan</strong>, Zuoyan Zhang, Guanghui Song, Junhui Peng, Feng Wang, Zhuo Tang, Kenli Li, Jie Zhao</div>
+    <div class="publication-venue"><em>ACM Transactions on Architecture and Code Optimization （ACM TACO）</em></div>
+  </div>
 </div>
 

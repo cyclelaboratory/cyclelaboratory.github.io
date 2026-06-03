@@ -75,28 +75,20 @@ user_groups:
 
 ### Publications
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[PPoPP 2024]</div>
-        <div style="flex: 1;">
-            A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Jinchen Xu†, <strong>Guanghui Song†</strong> , Bei Zhou, Fei Li, Jiangwei Hao, and Jie Zhao~ <br>
-                <em>In Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Edinburgh, United Kingdom. Jul 2024.</em>
-            </span>
-        </div>
-    </div>
+<div class="publication-card">
+  <div class="publication-badge">PPoPP 2024</div>
+  <div>
+    <div class="publication-title">A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs</div>
+    <div class="publication-authors">Jinchen Xu†, <strong>Guanghui Song†</strong> , Bei Zhou, Fei Li, Jiangwei Hao, and Jie Zhao~</div>
+    <div class="publication-venue"><em>In Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Edinburgh, United Kingdom. Jul 2024.</em></div>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[ASE 2023]</div>
-        <div style="flex: 1;">
-            Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Zuoyan Zhang, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, <strong>Guanghui Song</strong>, Fei Li, Jinchen Xu, Jie Zhao~ <br>
-                <em>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) Sep 2023 </em>
-            </span>
-        </div>
-    </div>
+<div class="publication-card">
+  <div class="publication-badge">ASE 2023</div>
+  <div>
+    <div class="publication-title">Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation</div>
+    <div class="publication-authors">Zuoyan Zhang, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, <strong>Guanghui Song</strong>, Fei Li, Jinchen Xu, Jie Zhao~</div>
+    <div class="publication-venue"><em>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) Sep 2023</em></div>
+  </div>
 </div>

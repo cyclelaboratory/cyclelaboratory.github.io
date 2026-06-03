@@ -73,15 +73,11 @@ Shaobai Yuan is currently a first-year PhD student at Hunan University. During h
 
 ### Publications
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C1]</div>
-        <div style="flex: 1;">
-            Post-Link Outlining for Code Size Reduction<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                <strong>Shaobai Yuan</strong>, Jihong He,  Yihui Xie, Feng Wang*, Jie Zhao <br>
-                <em>In Proceedings of the ACM SIGPLAN 2025 International Conference on Compiler Construction (CC 2025) Dec 2024</em>
-            </span>
-        </div>
-    </div>
+<div class="publication-card">
+  <div class="publication-badge">C1</div>
+  <div>
+    <div class="publication-title">Post-Link Outlining for Code Size Reduction</div>
+    <div class="publication-authors"><strong>Shaobai Yuan</strong>, Jihong He,  Yihui Xie, Feng Wang*, Jie Zhao</div>
+    <div class="publication-venue"><em>In Proceedings of the ACM SIGPLAN 2025 International Conference on Compiler Construction (CC 2025) Dec 2024</em></div>
+  </div>
 </div>

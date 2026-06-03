@@ -79,41 +79,29 @@ Information about Zuoyan Zhang can be accessed through his personal academic hom
 
 <!-- ### Publications
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C2]</div>
-        <div style="flex: 1;">
-            Arfa: an Agile Regime-based Floating-point Optimization Approach for Rounding Errors<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                Jinchen Xu#, Mengqi Cui#, Fei Li, <strong>Zuoyan Zhang</strong>, Hongru Yang, Bei Zhou*, Jie Zhao* <br>
-                <em>In Proceedings of the 33rd ACM International Symposium on Software Testing and Analysis (ISSTA 2024) Sep 2024</em>
-            </span>
-        </div>
-    </div>
+<div class="publication-card">
+  <div class="publication-badge">C2</div>
+  <div>
+    <div class="publication-title">Arfa: an Agile Regime-based Floating-point Optimization Approach for Rounding Errors</div>
+    <div class="publication-authors">Jinchen Xu#, Mengqi Cui#, Fei Li, <strong>Zuoyan Zhang</strong>, Hongru Yang, Bei Zhou*, Jie Zhao*</div>
+    <div class="publication-venue"><em>In Proceedings of the 33rd ACM International Symposium on Software Testing and Analysis (ISSTA 2024) Sep 2024</em></div>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[C1]</div>
-        <div style="flex: 1;">
-            Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                <strong>Zuoyan Zhang</strong>, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, Guanghui Song, Fei Li, Jinchen Xu*, Jie Zhao* <br>
-                <em>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) Sep 2023 </em>
-            </span>
-        </div>
-    </div>
+<div class="publication-card">
+  <div class="publication-badge">C1</div>
+  <div>
+    <div class="publication-title">Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation</div>
+    <div class="publication-authors"><strong>Zuoyan Zhang</strong>, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, Guanghui Song, Fei Li, Jinchen Xu*, Jie Zhao*</div>
+    <div class="publication-venue"><em>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) Sep 2023</em></div>
+  </div>
 </div>
 
-<div style="margin-bottom: 20px;">
-    <div style="color: #8B0000; font-weight: bold; margin-bottom: 5px; display: flex;">
-        <div style="min-width: 40px; text-align: right; margin-right: 10px;">[J1]</div>
-        <div style="flex: 1;">
-            Hierarchical search algorithm for error detection in floating-point arithmetic expressions<br>
-            <span style="color: #333; font-size: 0.9em; font-weight: lighter;">
-                <strong>Zuoyan Zhang#</strong>, Jinchen Xu#, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou*<br>
-                <em>The Journal of Supercomputing</em>
-            </span>
-        </div>
-    </div>
+<div class="publication-card">
+  <div class="publication-badge">J1</div>
+  <div>
+    <div class="publication-title">Hierarchical search algorithm for error detection in floating-point arithmetic expressions</div>
+    <div class="publication-authors"><strong>Zuoyan Zhang#</strong>, Jinchen Xu#, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou*</div>
+    <div class="publication-venue"><em>The Journal of Supercomputing</em></div>
+  </div>
 </div> -->

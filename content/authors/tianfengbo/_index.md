@@ -28,7 +28,7 @@ education:
   courses:
     - course: BSc
       institution: University of Electronic Science and Technology of China
-      year: 2022 - present
+      year: 2022 - 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

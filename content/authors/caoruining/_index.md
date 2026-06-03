@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student (start from 2022)
+role: Undergraduate intern (Jun 2024 to Jun 2026)
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
     - course: BSc
       institution: Hunan University
-      year: 2022 - present
+      year: 2022 - 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -59,8 +59,12 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergraduate
+  - Alumni
 ---
 
-Ruining Cao is a third-year undergraduate student at Hunan University and a member of CYCLE. Her research focuses on image processing optimization, where she explores ways to enhance the efficiency and performance of image processing algorithms. Through this work, she aims to contribute to the development of more optimized and scalable solutions in the field of image processing.
+Ruining Cao was an undergraduate student at Hunan University and a member of CYCLE. Her research focused on image processing optimization, where she explored ways to enhance the efficiency and performance of image processing algorithms.
 
+<div style="margin-top: 1.25rem; padding: 1rem 1.25rem; border-left: 4px solid #1565c0; background: #f5f9ff; border-radius: 6px;">
+  <div style="font-weight: 700; color: #1565c0; margin-bottom: 0.25rem;">First Position</div>
+  <div style="font-size: 1.05rem;">MSc student at The Hong Kong University of Science and Technology (Guangzhou).</div>
+</div>
