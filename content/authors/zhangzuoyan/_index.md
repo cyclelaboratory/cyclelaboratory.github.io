@@ -16,7 +16,7 @@ superuser: false
 # Role/position
 role: PhD student (start from 2024)
 
-external_link: https://zuoyanzhang.github.io
+external_link: https://zuoyanzhang.github.io/
 
 # Organizations/Affiliations
 organizations:
