@@ -10,12 +10,8 @@ sections:
       title: Contact
       text: |-
         CYCLE Lab has sufficient openings for master's and doctoral students in <strong>2027</strong>. Students with a solid foundation in programming are welcome to contact Jie Zhao or members of the team. At the same time, CYCLE Lab also recruits postdoctoral fellows with preferential treatment. Please feel free to inquire. We expect you to have the following conditions: 1) Healthy physical and mental condition; 2) Full enthusiasm for scientific research; 3) Solid programming foundation; 4) Good communication skills; 5) Interest in the research direction of our team.
+      email_text: jiezhao [at] hnu [dot] edu [dot] cn
       # phone: 888 888 88 88
-      contact_links:
-        - icon: envelope
-          icon_pack: fas
-          name: jiezhao [at] hnu [dot] edu [dot] cn
-          link: ''
       address:
         street: No. 2, Lushan South Road, Juzizhou Street, Yuelu District
         city: Changsha
