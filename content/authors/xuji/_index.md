@@ -58,6 +58,9 @@ user_groups:
   - Alumni
 ---
 
-Ji Xu as a intern at Cycle Laboratory from Jul 2024 to Apr 2025, focusing on deep learning model accelerated inference and training.
+Ji Xu interned at Cycle Laboratory from Jul 2024 to Apr 2025, focusing on deep learning model accelerated inference and training.
 
-[**First position**]: MSc student at Hunan University.
+<div style="margin-top: 1.25rem; padding: 1rem 1.25rem; border-left: 4px solid #1565c0; background: #f5f9ff; border-radius: 6px;">
+  <div style="font-weight: 700; color: #1565c0; margin-bottom: 0.25rem;">First Position</div>
+  <div style="font-size: 1.05rem;">MSc student at Hunan University.</div>
+</div>

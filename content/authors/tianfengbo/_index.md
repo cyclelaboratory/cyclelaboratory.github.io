@@ -59,6 +59,9 @@ user_groups:
   - Alumni
 ---
 
-Fengbo Tian interned at Cycle Laboratory during Jan 2025 to Sep 2025 and his internship topic was accelerating distributed training of large language models.
+Fengbo Tian interned at Cycle Laboratory from Jan 2025 to Sep 2025, working on accelerating distributed training of large language models.
 
-[**First position**]: Direct-Ph.D. student at Beihang University.
+<div style="margin-top: 1.25rem; padding: 1rem 1.25rem; border-left: 4px solid #1565c0; background: #f5f9ff; border-radius: 6px;">
+  <div style="font-weight: 700; color: #1565c0; margin-bottom: 0.25rem;">First Position</div>
+  <div style="font-size: 1.05rem;">Direct-Ph.D. student at Beihang University.</div>
+</div>
