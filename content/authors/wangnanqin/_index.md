@@ -18,21 +18,24 @@ role: PhD student (start from 2026)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Electronic Science and Technology of China
+  - name: Hunan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in the field of polyhedral compilers and compilation optimization.
+bio: My research interests include large model training and inference, with a focus on fine-grained computation-communication overlap for operators.
 
 interests:
-  - Polyhedral compilers
-  - Compilation optimizations
+  - Large Model Training and Inference
+  - Fine-grained Computation-Communication Overlap
 
 education:
   courses:
+    - course: Direct PhD
+      institution: Hunan University
+      year: 2026 - present
     - course: BSc
       institution: University of Electronic Science and Technology of China
-      year: 2022 - present
+      year: 2022 - 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,5 +66,4 @@ user_groups:
   - PhD
 ---
 
-Nanqin Wang is a senior student at UESTC, and a member of CYCLE. His research interests are in the field of polyhedral compilers and compilation optimization. He is going to pursue his Ph.D. at Hunan University under the supervision of Professor Jie Zhao.
-
+Nanqin Wang is a direct PhD student at Hunan University starting from 2026. He received his BSc degree from the University of Electronic Science and Technology of China. His research interests include large model training and inference, with a focus on fine-grained computation-communication overlap for operators.

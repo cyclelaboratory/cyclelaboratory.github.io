@@ -66,5 +66,4 @@ user_groups:
   - Master
 ---
 
-Zhang Zuyao is a member of CYCLE at Hunan University and currently a senior student. The research areas of interest are Large Model Distributed Training and Inference Acceleration and AI Compilation.
-
+Zuyao Zhang has been a master student at CYCLE, Hunan University since 2025. Her research interests include large model distributed training and inference acceleration, and AI compilation.

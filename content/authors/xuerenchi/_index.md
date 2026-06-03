@@ -31,9 +31,12 @@ interests:
 
 education:
   courses:
+    - course: MEng
+      institution: Hunan University
+      year: 2026 - present
     - course: BSc
       institution: Hunan University
-      year: 2022 - present
+      year: 2022 - 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -64,5 +67,4 @@ user_groups:
   - Master
 ---
 
-Renci Xue is a member of CYCLE at Hunan University and will officially become a first-year graduate student. Her research interests include large language models, high-performance computing, and AI compilation. 
-
+Renchi Xue has been a master student at CYCLE, Hunan University since 2026. Her research interests include large language models, high-performance computing, and AI compilation.

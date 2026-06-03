@@ -31,9 +31,12 @@ interests:
 
 education:
   courses:
+    - course: MEng
+      institution: Hunan University
+      year: 2026 - present
     - course: BSc
       institution: Hunan University
-      year: 2022 - present
+      year: 2022 - 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -64,5 +67,4 @@ user_groups:
   - Master
 ---
 
-Weiming Chen is a member of CYCLE at Hunan University and currently a senior student.His research interests include Large Model Distributed Training,Machine Learning and AI Compilation.
-
+Weiming Chen received his BSc degree from Hunan University in 2026 and is now a master student at CYCLE, Hunan University. His research interests include large model distributed training, machine learning, and AI compilation.

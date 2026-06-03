@@ -18,7 +18,7 @@ role: PhD student (start from 2026)
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Electronic Science and Technology of China
+  - name: Hunan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,9 +30,12 @@ interests:
 
 education:
   courses:
+    - course: Direct PhD
+      institution: Hunan University
+      year: 2026 - present
     - course: BSc
       institution: University of Electronic Science and Technology of China
-      year: 2022 - present
+      year: 2022 - 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -63,5 +66,4 @@ user_groups:
   - PhD
 ---
 
-Runhang Guo is a senior student at University of Electronic Science and Technology of China and a member of CYCLE. His research interests focus on polyhedral compilers and compilation optimization. He is going to pursue his Ph.D. at Hunan University under the supervision of Professor Jie Zhao.
-
+Runhang Guo is a direct PhD student at Hunan University starting from 2026. He received his BSc degree from the University of Electronic Science and Technology of China. His research interests focus on polyhedral compilers and compilation optimization.
