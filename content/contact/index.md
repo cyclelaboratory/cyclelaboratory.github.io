@@ -9,8 +9,13 @@ sections:
     content:
       title: Contact
       text: |-
-        CYCLE Lab has sufficient openings for master's and doctoral students in <strong>2027</strong>. Students with a solid foundation in programming are welcome to contact Jie Zhao or members of the team. To reduce spam, please write to Jie Zhao using this address format: <strong>jiezhao [at] hnu [dot] edu [dot] cn</strong>. At the same time, CYCLE Lab also recruits postdoctoral fellows with preferential treatment. Please feel free to inquire. We expect you to have the following conditions: 1) Healthy physical and mental condition; 2) Full enthusiasm for scientific research; 3) Solid programming foundation; 4) Good communication skills; 5) Interest in the research direction of our team.
+        CYCLE Lab has sufficient openings for master's and doctoral students in <strong>2027</strong>. Students with a solid foundation in programming are welcome to contact Jie Zhao or members of the team. At the same time, CYCLE Lab also recruits postdoctoral fellows with preferential treatment. Please feel free to inquire. We expect you to have the following conditions: 1) Healthy physical and mental condition; 2) Full enthusiasm for scientific research; 3) Solid programming foundation; 4) Good communication skills; 5) Interest in the research direction of our team.
       # phone: 888 888 88 88
+      contact_links:
+        - icon: envelope
+          icon_pack: fas
+          name: jiezhao [at] hnu [dot] edu [dot] cn
+          link: ''
       address:
         street: No. 2, Lushan South Road, Juzizhou Street, Yuelu District
         city: Changsha
@@ -26,11 +31,6 @@ sections:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
       # appointment_url: 'https://calendly.com'
-      # contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
     
       # Automatically link email and phone or display as text?
       autolink: false
