@@ -26,28 +26,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests span ML system and software engineering.
 
-# interests:
-#   - Floating-point Error Detection
-#   - Program Analysis
-#   - Machine Learning Compilers
-#   - LLM Distributed Training Acceleration
-
-# education:
-#   courses:
-#     - course: PhD 
-#       institution: Hunan University
-#       year: 2024 - present
-#     - course: MEng
-#       institution: Information Engineering University
-#       year: 2021 - 2024
-#     - course: BSc
-#       institution: Henan University of Technology
-#       year: 2017 - 2021
-
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -58,50 +36,11 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/zuoyanzhang
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - PhD
 ---
 
-Information about Zuoyan Zhang can be accessed through his personal academic homepage. Click it [Zuoyan Zhang's Homepage](https://zuoyanzhang.github.io).
-<!-- [Zuoyan Zhang](https://zuoyanzhang.github.io) is a first-year PhD student at Hunan University under the supervisor Prof. Jie Zhao, where he is a member of the CYCLE Lab. Zhang got his MEng degree from the State Key Laboratory of Mathematical Engineering and Advanced Computing at Information Engineering University under the supervisor Prof. Shaozhong Guo in June 2024. His research interests span ML system and program analysis, with a particular focus on floating-point program error detection and automatic repair, as well as distributed parallel acceleration for LLM training. His research has been recognized with ASE, ISSTA. -->
-
-
-<!-- ### Publications
-
-<div class="publication-card">
-  <div class="publication-badge">C2</div>
-  <div>
-    <div class="publication-title">Arfa: an Agile Regime-based Floating-point Optimization Approach for Rounding Errors</div>
-    <div class="publication-authors">Jinchen Xu#, Mengqi Cui#, Fei Li, <strong>Zuoyan Zhang</strong>, Hongru Yang, Bei Zhou*, Jie Zhao*</div>
-    <div class="publication-venue"><em>In Proceedings of the 33rd ACM International Symposium on Software Testing and Analysis (ISSTA 2024) Sep 2024</em></div>
-  </div>
-</div>
-
-<div class="publication-card">
-  <div class="publication-badge">C1</div>
-  <div>
-    <div class="publication-title">Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation</div>
-    <div class="publication-authors"><strong>Zuoyan Zhang</strong>, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, Guanghui Song, Fei Li, Jinchen Xu*, Jie Zhao*</div>
-    <div class="publication-venue"><em>In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) Sep 2023</em></div>
-  </div>
-</div>
-
-<div class="publication-card">
-  <div class="publication-badge">J1</div>
-  <div>
-    <div class="publication-title">Hierarchical search algorithm for error detection in floating-point arithmetic expressions</div>
-    <div class="publication-authors"><strong>Zuoyan Zhang#</strong>, Jinchen Xu#, Jiangwei Hao, Yang Qu, Haotian He, Bei Zhou*</div>
-    <div class="publication-venue"><em>The Journal of Supercomputing</em></div>
-  </div>
-</div> -->
+More information is available at [Zuoyan Zhang's homepage](https://zuoyanzhang.github.io/).
