@@ -81,11 +81,47 @@ user_groups:
 This part collects a(n incomplete) list of Jie Zhao's publications. Posters and workshp papers without formal proceedings are not recorded. More information is available at [Google Scholar](https://scholar.google.com/citations?hl=en&user=9EIFPO4AAAAJ) and dblp.
 
 <div class="publication-card">
-  <div class="publication-badge">TACO</div>
+  <div class="publication-badge">ISCA 2026</div>
+  <div>
+    <div class="publication-title">Dynamic Scheduling for AI Accelerators via TISA</div>
+    <div class="publication-authors">Guanghui Song*, Xiaoqiang Dan*, Chengke Wang, Fei Liu, Wenyuan Lv, Zhongzhou Jiang, Jianjian Guan, Teng Lu, Lin Tao, Cheng Li, Weixing Pan, Wei Huang, Zirong Shen, Yi Yang, Hui Liu, and <strong>Jie Zhao†</strong></div>
+    <div class="publication-venue"><em>In Proceedings of the 53rd Annual International Symposium on Computer Architecture (ISCA 2026), Raleigh, NC, USA. Jun–Jul 2026. To appear.</em></div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-badge">TACO 2026</div>
+  <div>
+    <div class="publication-title">A Decoupled Analytical Model for Tile Size Selection in Affine Programs</div>
+    <div class="publication-authors">Shihan Yuan, Zuoyan Zhang, Guanghui Song, Junhui Peng, Feng Wang, Zhuo Tang, Kenli Li, and <strong>Jie Zhao</strong></div>
+    <div class="publication-venue"><em>ACM Transactions on Architecture and Code Optimization (TACO 2026)</em></div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-badge">IEEE TC 2026</div>
+  <div>
+    <div class="publication-title">Dual-Pronged Deep Learning Preprocessing on Heterogeneous Platforms With CPU, Accelerator and CSD</div>
+    <div class="publication-authors">Jia Wei, Xingjun Zhang, Witold Pedrycz, Longxiang Wang, and <strong>Jie Zhao</strong></div>
+    <div class="publication-venue"><em>IEEE Transactions on Computers (TC 2026)</em></div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-badge">TACO 2025</div>
+  <div>
+    <div class="publication-title">ASSG: Enhanced Workload Balancing via Adaptive State Scheduling Granularity Approach for Stateful Distributed Stream Processing</div>
+    <div class="publication-authors">Jiawei Tan, Jiapeng Zhang, Zhuo Tang, Xiong Xiao, Bingting Jiang, <strong>Jie Zhao</strong>, and Kenli Li</div>
+    <div class="publication-venue"><em>ACM Transactions on Architecture and Code Optimization (TACO 2025)</em></div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-badge">TACO 2025</div>
   <div>
     <div class="publication-title">Accelerating Parallel Structures in DNNs via Parallel Fusion and Operator Co-Optimization</div>
     <div class="publication-authors">Zhanyuan Di, Leping Wang, Zhaojia Ma, En Shao, <strong>Jie Zhao</strong>, Ziyi Ren, Siyuan Feng, Dingwen Tao, Guangming Tan, Ninghui Sun</div>
-    <div class="publication-venue"><em>ACM Transactions on Architecture and Code Optimization (TACO)</em></div>
+    <div class="publication-venue"><em>ACM Transactions on Architecture and Code Optimization (TACO 2025)</em></div>
   </div>
 </div>
 
@@ -216,19 +252,37 @@ This part collects a(n incomplete) list of Jie Zhao's publications. Posters and 
 </div>
 
 <div class="publication-card">
-  <div class="publication-badge">TACO</div>
-  <div>
-    <div class="publication-title">Flextended Tiles: A Flexible Extension of Overlapped Tiles for Polyhedral Compilation</div>
-    <div class="publication-authors"><strong>Jie Zhao</strong>, Albert Cohen</div>
-    <div class="publication-venue"><em>ACM Transactions on Architecture and Code Optimization (TACO)</em></div>
-  </div>
-</div>
-
-<div class="publication-card">
   <div class="publication-badge">MICRO 2020</div>
   <div>
     <div class="publication-title">Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data</div>
     <div class="publication-authors"><strong>Jie Zhao</strong>, Peng Di</div>
     <div class="publication-venue"><em>53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO 2020) Oct 2020</em></div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-badge">TACO 2019</div>
+  <div>
+    <div class="publication-title">Flextended Tiles: A Flexible Extension of Overlapped Tiles for Polyhedral Compilation</div>
+    <div class="publication-authors"><strong>Jie Zhao</strong>, Albert Cohen</div>
+    <div class="publication-venue"><em>ACM Transactions on Architecture and Code Optimization (TACO 2019)</em></div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-badge">ICS 2019</div>
+  <div>
+    <div class="publication-title">WCCV: improving the vectorization of IF-statements with warp-coherent conditions</div>
+    <div class="publication-authors">Huihui Sun, Florian Fey, <strong>Jie Zhao</strong>, and Sergei Gorlatch</div>
+    <div class="publication-venue"><em>Proceedings of the 19th ACM International Conference on Supercomputing (ICS 2019)</em></div>
+  </div>
+</div>
+
+<div class="publication-card">
+  <div class="publication-badge">CC 2018</div>
+  <div>
+    <div class="publication-title">A polyhedral compilation framework for loops with dynamic data-dependent bounds</div>
+    <div class="publication-authors"><strong>Jie Zhao</strong>, Michael Kruse, and Albert Cohen</div>
+    <div class="publication-venue"><em>Proceedings of the 27th International Conference on Compiler Construction (CC 2018)</em></div>
   </div>
 </div>
