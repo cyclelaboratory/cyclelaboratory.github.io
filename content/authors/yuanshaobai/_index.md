@@ -74,7 +74,7 @@ Shaobai Yuan is currently a first-year PhD student at Hunan University. During h
 ### Publications
 
 <div class="publication-card">
-  <div class="publication-badge">C1</div>
+  <div class="publication-badge">CC 2025</div>
   <div>
     <div class="publication-title">Post-Link Outlining for Code Size Reduction</div>
     <div class="publication-authors"><strong>Shaobai Yuan</strong>, Jihong He,  Yihui Xie, Feng Wang*, Jie Zhao</div>
