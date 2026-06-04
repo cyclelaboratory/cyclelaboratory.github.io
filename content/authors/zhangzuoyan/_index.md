@@ -24,7 +24,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests span ML system and software engineering.
+bio: Deep learning system and AI compiler.
 
 social:
   - icon: envelope
